@@ -1,0 +1,16 @@
+http://www.malmalioboro.co.id/index.php/api/produk/get_list
+method : POST
+
+body :{
+idtenan :136
+}
+
+
+{
+        "id": "91",
+        "idtenan": "136",
+        "nama": "KLINPAK ALM FOIL JUMBO REFIL",
+        "deskripsi": "8992742770384",
+        "harga": "27300",
+        "gambar": "assets/images/produk/edc81c605368f32b35e64161f5b4bcbc.jpg"
+    },
