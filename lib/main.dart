@@ -31,6 +31,7 @@ class SupermarketState extends State<Supermarket> {
       var parse = json.decode(response.body);
 
       data = parse;
+      print(data.length);
     });
     return 'success!';
   }
