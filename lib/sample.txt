@@ -1,4 +1,3 @@
-http://www.malmalioboro.co.id/index.php/api/produk/get_list
 method : POST
 
 body :{
