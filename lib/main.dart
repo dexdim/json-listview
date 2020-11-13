@@ -12,8 +12,7 @@ class Supermarket extends StatefulWidget {
 }
 
 class SupermarketState extends State<Supermarket> {
-  final String url =
-      'http://www.malmalioboro.co.id/index.php/api/produk/get_list';
+  final String url;
   List data;
 
   @override
